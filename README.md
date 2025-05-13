@@ -44,11 +44,6 @@ This project focuses on optimizing HVAC (Heating, Ventilation, and Air Condition
    pip install -r requirements.txt
    ```
 
-3. Run the Streamlit app:
-
-   ```bash
-   streamlit run streamlit_app/app.py
-   ```
 
 ---
 
@@ -68,6 +63,16 @@ This project focuses on optimizing HVAC (Heating, Ventilation, and Air Condition
 | Anomaly Detection | ⏳ Upcoming     |
 | Streamlit GUI     | ⏳ Upcoming     |
 | Final Integration | ⏳ Upcoming     |
+
+
+---
+
+## 📬 Supervisor
+
+- **Name:** Nikola Ivanovic, M.Sc.
+- **Email:** [nikola.ivanovic@uni-rostock.de](mailto:nikola.ivanovic@uni-rostock.de)
+- **Website:** [University of Rostocl](https://www.wirtschaftsinformatik.uni-rostock.de/lehrstuhl/team/wissenschaftliches-personal/nikola-ivanovic/)
+
 
 ---
 
