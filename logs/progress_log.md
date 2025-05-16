@@ -1,6 +1,6 @@
 # 🚀 Progress Log
 
-Summarize your weekly or milestone-based achievements.
+Summarize weekly or milestone-based achievements.
 
 ---
 

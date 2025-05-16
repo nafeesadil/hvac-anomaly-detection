@@ -20,5 +20,5 @@ Tracking daily working sessions here.
 - **Start Time:** 2:00 am  
 - **End Time:** 5:07 am
 - **Total Hours:** 3 hours 
-- **Work Done:** preliminary exploration of SYSFAN_DPS
+- **Work Done:** preliminary exploration of SFAN_DPS
   - 
