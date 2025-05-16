@@ -12,7 +12,7 @@ Summarize your weekly or milestone-based achievements.
 
 ---
 
-### Week of YYYY-MM-DD
-- ✅ 
-- 🚧 
-- ⏭️ 
+### Week of 2025-05-16
+- ✅ explored the working hours of the system on weekends and weekdays on the month of may 2023, system has about 3 states, 100% on, partially on ~ 20% and totally off 
+- 🚧 anomaly detection with ML in progress
+- ⏭️ next up: more patterns over the months and years. 

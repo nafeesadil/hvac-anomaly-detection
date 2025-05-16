@@ -16,9 +16,9 @@ Tracking daily working sessions here.
 
 ---
 
-### 📅 YYYY-MM-DD
-- **Start Time:** 
-- **End Time:** 
-- **Total Hours:** 
-- **Work Done:**
+### 📅 2025-05-16
+- **Start Time:** 2:00 am  
+- **End Time:** 5:07 am
+- **Total Hours:** 3 hours 
+- **Work Done:** preliminary exploration of SYSFAN_DPS
   - 
