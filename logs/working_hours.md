@@ -22,3 +22,12 @@ Tracking daily working sessions here.
 - **Total Hours:** 3 hours 
 - **Work Done:** preliminary exploration of SFAN_DPS
   - 
+
+---
+
+### 📅 2025-05-18
+- **Start Time:** 2:00 am  
+- **End Time:** 6:30 am
+- **Total Hours:** 4.5 hours 
+- **Work Done:** engineering features : system status and day-light saving
+  - 
